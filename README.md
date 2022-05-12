@@ -1,8 +1,15 @@
 Hi 👋 My name is Muhammad Allah Rakha
-=====================================Author | Data Scientist | Software and Application Developer | Full Stack Web Developer---------------------------------------------------------------------------------------This is a student of Computer science, and he has composed four books. Workability, have in the fields of data scientist, system software, application (desktop and mobile) development, and full-stack web development. Have three years of involvement with different programming languages, frameworks, projects and other computer science disciplines. Have finished projects in different fields of computer science. I have excellent problem-solving capabilities.* 🌍  I'm based in Pakistan* 🖥️  See my portfolio at [My Website](http://aaaastark.herokuapp.com)* ✉️  You can contact me at [4444stark@gmail.com](mailto:4444stark@gmail.com)
+=====================================
 
-<a href="https://www.github.com/aaaastark" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/aaaastark?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+Author | Data Scientist | Software and Application Developer | Full Stack Web Developer
+---------------------------------------------------------------------------------------
+
+This is a student of Computer science, and he has composed four books. Workability, have in the fields of data scientist, system software, application (desktop and mobile) development, and full-stack web development. Have three years of involvement with different programming languages, frameworks, projects and other computer science disciplines. Have finished projects in different fields of computer science. I have excellent problem-solving capabilities.
+
+*   🌍  I'm based in Pakistan
+*   🖥️  See my portfolio at [My Website](http://aaaastark.herokuapp.com)
+*   ✉️  You can contact me at [4444stark@gmail.com](mailto:4444stark@gmail.com)
+<a href="https://www.github.com/aaaastark" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/aaaastark?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
