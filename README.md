@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhammad Allah Rakha
 =====================================
 
-Author | Data Scientist | Software and Application Developer | Full Stack Web Developer
+Author | Data Scientist | Data Engineer | System Software and Desktop Application Developer | Full Stack Web Developer
 ---------------------------------------------------------------------------------------
 
 This is a student of Computer science, and he has composed four books. Workability, have in the fields of data scientist, system software, application (desktop and mobile) development, and full-stack web development. Have three years of involvement with different programming languages, frameworks, projects and other computer science disciplines. Have finished projects in different fields of computer science. I have excellent problem-solving capabilities.
