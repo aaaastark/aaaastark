@@ -17,6 +17,7 @@ I have excellent problem-solving capabilities in Research and Engineering field.
 
 <p align="left"> <a href="https://www.github.com/aaaastark" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aaaa.stark" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/a-a-a-a-stark-69696617b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCgPu2X7ehI4h6DsVM8zEz8A" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="a-a-a-a-stark-69696617b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/a-a-a-a-stark-69696617b?trk=profile-badge">A A A A STARK</a></div>
 
 <b>Top Repositories</b>
