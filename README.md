@@ -3,8 +3,11 @@ Hi 👋 My name is Muhammad Allah Rakha
 
 Author | Data Scientist | Data Engineer | System Software and Desktop Application Developer | Full Stack Web Developer
 ---------------------------------------------------------------------------------------
+Research Data Scientist | AI - ML Engineer
 
-This is a student of Computer science, and he has composed four books. Workability, have in the fields of data scientist, system software, application (desktop and mobile) development, and full-stack web development. Have three years of involvement with different programming languages, frameworks, projects and other computer science disciplines. Have finished projects in different fields of computer science. I have excellent problem-solving capabilities.
+Hello! Let me introduce myself, I'm Muhammad Allah Rakha (Research Data Scientist | AI-Ml Engineer), who has 2 years of experience in this job role. My areas of expertise are Artificial Intelligence, Machine Learning, Deep Learning, Big Data, Computer Vision, Data Mining, and Natural Language Processing. I'm here, now to show my work abilities for a company role and to help people with projects (research papers, research architecture, machine learning, deep learning, big data, computer vision, data mining, and natural language processing) with a programming language (Python, R, Julia, Rust, C/C++, Java, SQL/NoSQL) and Bigdata Frameworks.
+
+I have excellent problem-solving capabilities in Research and Engineering field.
 
 *   🌍  I'm based in Pakistan
 *   🖥️  See my portfolio at [My Website](http://aaaastark.herokuapp.com)
