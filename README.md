@@ -3,7 +3,7 @@ Hi 👋 My name is Muhammad Allah Rakha
 
 Author | Research Data Scientist | AI - ML Engineer | System Software Engineer
 ---------------------------------------------------------------------------------------
-Hello! Let me introduce myself, I'm Muhammad Allah Rakha (Research Data Scientist | AI-Ml Engineer), who has 2 years of experience in this job role. My areas of expertise are Artificial Intelligence, Machine Learning, Deep Learning, Big Data, Computer Vision, Data Mining, and Natural Language Processing. I'm here, now to show my work abilities for a company role and to help people with projects (research papers, research architecture, machine learning, deep learning, big data, computer vision, data mining, and natural language processing) with a programming language (Python, R, Julia, Rust, C/C++, Java, SQL/NoSQL) and Bigdata Frameworks.
+Hello! Let me introduce myself, I'm Muhammad Allah Rakha (Research Data Scientist | AI-ML Engineer), who has 2 years of experience in this job role. My areas of expertise are Artificial Intelligence, Machine Learning, Deep Learning, Big Data, Computer Vision, Data Mining, and Natural Language Processing. I'm here, now to show my work abilities for a company role and to help people with projects (research papers, research architecture, machine learning, deep learning, big data, computer vision, data mining, and natural language processing) with a programming language (Python, R, Julia, Rust, C/C++, Java, SQL/NoSQL) and Bigdata Frameworks.
 
 I have excellent problem-solving capabilities in Research and Engineering field.
 
