@@ -9,6 +9,11 @@ I am here, now to demonstrate my working capabilities for a corporate/business r
 
 I have excellent problem-solving capabilities in the Research and Engineering field.
 
+*   Make the critical projects of client's requirements. E.g. Research, Thesis, FYP, and Company (Corporative/Business) Projects. By using different kinds of Programming Languages, Frameworks, APIs, etc.
+*   Maintenance of the organization's client's projects and solving unexpected bugs/errors in real-world problems.
+*   Providing and teaching correct way solutions to problems in user working projects.
+*   Distributed real-world knowledge/experiences with each other, and groom their own mindthinking expertise.
+
 *   🌍  I'm based in Pakistan
 *   🖥️  See my portfolio at [My Website](https://aaaastark.github.io)
 *   ✉️  You can contact me at [4444stark@gmail.com](mailto:4444stark@gmail.com)
