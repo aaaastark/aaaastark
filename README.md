@@ -15,7 +15,7 @@ His aim is to highlight his working capabilities, particularly in the corporate/
 
 ## LinkedIN and Email
 *   See my LinkedIN profile at [AAAA STARK LINKEDIN](https://www.linkedin.com/in/a-a-a-a-stark-69696617b/)
-*   You can contact me at [AAAA STARK EMAIL](4444stark@gmail.com)
+*   You can contact me at [AAAA STARK EMAIL](mailto:4444stark@gmail.com)
 
 <a href="https://www.github.com/aaaastark" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/aaaastark?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
