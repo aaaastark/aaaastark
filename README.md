@@ -13,9 +13,9 @@ His aim is to highlight his working capabilities, particularly in the corporate/
 *   Providing and teaching correct way solutions to problems in user working projects.
 *   Distributed real-world knowledge/experiences with each other, and groom their own mindthinking expertise.
 
-*   🌍  I'm based in Pakistan
-*   🖥️  See my portfolio at [My Website](https://aaaastark.github.io)
-*   ✉️  You can contact me at [4444stark@gmail.com](mailto:4444stark@gmail.com)
+## LinkedIN and Email
+*   See my LinkedIN profile at [AAAA STARK LINKEDIN](https://www.linkedin.com/in/a-a-a-a-stark-69696617b/)
+*   You can contact me at [AAAA STARK EMAIL](mailto:4444stark@gmail.com)
 
 <a href="https://www.github.com/aaaastark" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/aaaastark?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
