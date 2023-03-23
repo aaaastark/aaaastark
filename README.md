@@ -3,11 +3,10 @@ Hi 👋 My name is Muhammad Allah Rakha
 
 Author | Research Data Scientist | AI - ML Engineer | System Software Engineer
 ---------------------------------------------------------------------------------------
-Hello! Let me introduce myself, my name is Muhammad Allah Rakha, and I have two years of experience in that role. My fields of expertise include research, artificial intelligence, machine learning, deep learning, big data, computer vision, data mining, and natural language processing. 
+Greetings! Allow me to introduce myself. I am Muhammad Allah Rakha and seasoned professional with over two years of experience in specific positions such as Research Data Scientist and AI-ML Engineer, and a member of the NVIDIA Developer Program community. 
+Which is proficient in various fields, including research science, artificial intelligence, machine learning, deep learning, big data, computer vision, data mining, natural language processing, and various programming languages such as Python, R, Julia, Rust, Java, SQL-NoSQL, Web Frameworks, and Big Data Frameworks, C/C++, enabling him to provide comprehensive solutions to complex problems.
 
-I am here, now to demonstrate my working capabilities for a corporate/business role and to help people with projects (research papers, research architecture, machine learning, deep learning, big data, computer vision, data mining, and natural language processing). Through the programming language (Python, R, Julia, Rust, C/C++, Java, SQL/NoSQL), Web Frameworks, and Bigdata Frameworks.
-
-I have excellent problem-solving capabilities in the Research and Engineering field.
+His aim is to highlight his working capabilities, particularly in the corporate/business sector, and provide assistance to individuals seeking help with their projects. His knowledge and skills make him a valuable asset to any team seeking to excel in the field of research and technology.
 
 *   Make the critical projects of client's requirements. E.g. Research, Thesis, FYP, and Company (Corporative/Business) Projects. By using different kinds of Programming Languages, Frameworks, APIs, etc.
 *   Maintenance of the organization's client's projects and solving unexpected bugs/errors in real-world problems.
