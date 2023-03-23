@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhammad Allah Rakha
 =====================================
 
-Author | Research Data Scientist | AI - ML Engineer | System Software Engineer
+Author | Research Data Scientist | AI-ML Engineer | NVIDIA Developer Program
 ---------------------------------------------------------------------------------------
 Greetings! Allow me to introduce myself. I am Muhammad Allah Rakha and seasoned professional with over two years of experience in specific positions such as Research Data Scientist and AI-ML Engineer, and a member of the [NVIDIA Developer Program](https://developer.nvidia.com/developer-program) community. 
 Which is proficient in various fields, including research science, artificial intelligence, machine learning, deep learning, big data, computer vision, data mining, natural language processing, and various programming languages such as Python, R, Julia, Rust, Java, SQL-NoSQL, Web Frameworks, and Big Data Frameworks, C/C++, enabling him to provide comprehensive solutions to complex problems.
