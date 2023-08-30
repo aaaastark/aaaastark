@@ -8,7 +8,7 @@ Additionally, as a Research Scientist at Chongqing University China, he focuses 
 
 As a Generative AI Engineer, his role involves designing and implementing advanced generative large language models, optimizing performance, collaborating with cross-functional teams, and exploring innovative applications. 
 
-Muhammad Allah Rakha is enthusiastic about connecting and exploring opportunities in research and technology.
+##### Muhammad Allah Rakha is enthusiastic about connecting and exploring opportunities in research and technology.
 
 ## LinkedIN and Email
 *   See my LinkedIN profile at [AAAA STARK LINKEDIN](https://www.linkedin.com/in/a-a-a-a-stark-69696617b/)
