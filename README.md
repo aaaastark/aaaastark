@@ -1,14 +1,10 @@
 Author | Research Scientist | Generative AI Engineer | NVIDIA Developer Program Member
 ---------------------------------------------------------------------------------------
-Muhammad Allah Rakha is an experienced Research Scientist and Generative AI Engineer with a strong background in diverse fields such as research science, artificial intelligence, machine learning, deep learning, big data, computer vision, data mining, and natural language processing. With over three years of industry experience, he possesses proficiency in Python, R, Julia, Rust, Java, C/C++, SQL-NoSQL, Web App, Big Data and NVIDIA Frameworks. His expertise lies in offering comprehensive solutions to complex problems, particularly in the corporate sector. 
 
-> He is a member of the NVIDIA Developer Program community, where he has used cutting-edge technology and research methods to address challenges in AI, ML, and deep learning, resulting in groundbreaking applications. He excels in meeting various project demands, upholding client satisfaction, and maintaining projects by resolving issues. 
-
-Additionally, as a Research Scientist at Chongqing University China, he focuses on Hyperspectral Images (Classification, Denoising, Pansharpening), conducting experiments, analyzing data, and collaborating with other researchers to foster innovation and creativity.
-
-As a Generative AI Engineer, his role involves designing and implementing advanced generative large language models, optimizing performance, collaborating with cross-functional teams, and exploring innovative applications. 
-
-> Muhammad Allah Rakha is enthusiastic about connecting and exploring opportunities in research and technology.
+>Muhammad Allah Rakha is an experienced Research Scientist and Generative AI Engineer with a strong background in diverse fields such as research science, artificial intelligence, machine learning, deep learning, big data, computer vision, data mining, and natural language processing. With over three years of industry experience. The possesses proficiency in Python, R, Julia, Rust, Java, C/C++, SQL-NoSQL, Web App, Big Data and NVIDIA Frameworks. Expertise lies in offering comprehensive solutions to complex problems, particularly in the corporate sector.
+A member of the NVIDIA Developer Program community, which has used cutting-edge technology and research methods to address challenges in AI, ML, DL, and resulting in groundbreaking applications. Meeting various project demands, upholding client satisfaction, and maintaining projects by resolving issues.
+Additionally, as a Research Scientist at Chongqing University China, focus on Hyperspectral Images (Classification, Denoising, Pansharpening), conducting experiments, analyzing data, and collaborating with other researchers to foster innovation and creativity.
+As a Generative AI Engineer, the role involves designing and implementing advanced generative large language models, optimizing performance, collaborating with cross-functional teams, and exploring innovative applications. Further, the procedure of Finetuning and RAG System.
 
 ## LinkedIN and Email
 *   See my LinkedIN profile at [AAAA STARK LINKEDIN](https://www.linkedin.com/in/a-a-a-a-stark-69696617b/)
