@@ -10,13 +10,17 @@ As a Generative AI Engineer, the role involves designing and implementing advanc
 
 ### Socials
 
-<p align="left"> 
- <a href="https://www.upwork.com/freelancers/~0133ac6de5164b1608" target="_blank" rel="noreferrer"><img src="https://github.com/aaaastark/aaaastark/assets/74346775/eaf5e263-6c17-4cb1-9b24-8de99a91993f" width="50" height="50" /></a> 
- <a href="https://www.linkedin.com/in/a-a-a-a-stark-69696617b" target="_blank" rel="noreferrer"><img src="https://github.com/aaaastark/aaaastark/assets/74346775/983ac4d6-f763-4d9c-89ff-c1a4877f992f" width="50" height="50" /></a>
- <a href="mailto:4444stark@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/aaaastark/aaaastark/assets/74346775/99ca1686-799a-4019-944a-1c134302ad87" width="50" height="50" /></a> 
- <a href="http://www.instagram.com/aaaa.stark" target="_blank" rel="noreferrer"><img src="https://github.com/aaaastark/aaaastark/assets/74346775/d5b39df8-4a76-454d-8ca6-3f4fb855cf92" width="50" height="50" /></a> 
- <a href="https://www.youtube.com/channel/UCgPu2X7ehI4h6DsVM8zEz8A" target="_blank" rel="noreferrer"><img src="https://github.com/aaaastark/aaaastark/assets/74346775/1583136a-941c-4bc0-bc86-3a91ced7a2d0" width="50" height="50" /></a> 
-</p>
+<div align="center">
+  <div class="container">
+    <p>
+      <a href="https://www.upwork.com/freelancers/~0133ac6de5164b1608" target="_blank" rel="noreferrer"><img src="https://github.com/aaaastark/aaaastark/assets/74346775/eaf5e263-6c17-4cb1-9b24-8de99a91993f" width="50" height="50" /></a> 
+      <a href="https://www.linkedin.com/in/a-a-a-a-stark-69696617b" target="_blank" rel="noreferrer"><img src="https://github.com/aaaastark/aaaastark/assets/74346775/983ac4d6-f763-4d9c-89ff-c1a4877f992f" width="50" height="50" /></a>
+      <a href="mailto:4444stark@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/aaaastark/aaaastark/assets/74346775/99ca1686-799a-4019-944a-1c134302ad87" width="50" height="50" /></a> 
+      <a href="http://www.instagram.com/aaaa.stark" target="_blank" rel="noreferrer"><img src="https://github.com/aaaastark/aaaastark/assets/74346775/d5b39df8-4a76-454d-8ca6-3f4fb855cf92" width="50" height="50" /></a> 
+      <a href="https://www.youtube.com/channel/UCgPu2X7ehI4h6DsVM8zEz8A" target="_blank" rel="noreferrer"><img src="https://github.com/aaaastark/aaaastark/assets/74346775/1583136a-941c-4bc0-bc86-3a91ced7a2d0" width="50" height="50" /></a> 
+   </p>
+  </div>
+</div>
 
 <b>Top Repositories</b>
 
