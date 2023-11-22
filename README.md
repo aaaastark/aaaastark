@@ -8,8 +8,6 @@ As a Generative AI Engineer, the role involves designing and implementing advanc
 
 <a href="https://www.github.com/aaaastark" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/aaaastark?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Socials
-
 <div align="center">
   <div class="container">
     <p>
