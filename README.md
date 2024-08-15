@@ -1,4 +1,4 @@
-Author | Research Scientist | Generative AI Engineer | NVIDIA Developer Program Member
+Author | Research Scientist | Senior AI&ML Engineer | Generative AI Engineer | NVIDIA Developer Program Member
 ---------------------------------------------------------------------------------------
 
 >Muhammad Allah Rakha is an experienced Research Scientist and Generative AI Engineer with a strong background in diverse fields such as research science, artificial intelligence, machine learning, deep learning, big data, computer vision, data mining, and natural language processing. With over three years of industry experience. The possesses proficiency in Python, R, Julia, Rust, Java, C/C++, SQL-NoSQL, Web App, Big Data and NVIDIA Frameworks. Expertise lies in offering comprehensive solutions to complex problems, particularly in the corporate sector.
