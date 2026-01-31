@@ -1,16 +1,27 @@
 Author | Research Scientist | Senior AI&ML Engineer | Generative AI Engineer | NVIDIA Developer Program Member
 ---------------------------------------------------------------------------------------
 
-> Muhammad Allah Rakha (AAAASTARK), a distinguished Senior AI & ML Engineer, Generative AI Engineer, and Research Scientist, brings 3.5 years of pioneering expertise in Artificial Intelligence, Machine Learning, and Deep Learning, leveraging NVIDIA technology and Oracle-OCI AI certification. A graduate of FAST-NUCES University, Pakistan (BSCS, 2023), he specializes in inventing and deploying cutting-edge ML models, DL algorithms, and NLP systems to solve complex, real-world business challenges.
+Senior AI/ML Engineer and Research Scientist with 3+ years of experience developing scalable solutions across Computer Vision, Natural Language Processing, Generative AI, and Deep Learning. 
+● NVIDIA Startup Member and Oracle-OCI AI certified professional with a BSCS from FAST-NUCES University, Pakistan (2023)
+● Published researcher in IEEE JSTAR Transactions, AIP Conference Proceedings, and Taylor & Francis Group
+● Proven track record of leading cross-functional teams, deploying high-performance GenAI systems on GPU clusters, and driving measurable business impact through innovative solutions. 
+● Key contributions include autonomous agents development (GPT-Researcher project), hyperspectral image processing research at Chongqing University, China (classification, denoising, pansharpening), and enterprise-scale AI applications.
+● Expertise spans multiple domains: Enterprise Video/Audio Dubbing Platforms, Neural Voice Cloning, Lip-Sync Technology, 3D Human Avatars, Virtual Humans, Motion Capture, Facial Animation, Photorealistic Rendering, Agentic AI, Geospatial Intelligence, Remote Sensing, Satellite Imagery Analysis, Object Detection, Semantic Segmentation, Instance Segmentation, Image Classification, Anomaly Detection, Time-series Forecasting, Edge AI, and IoT Security Systems. 
+---
+TECHNICAL SKILLS:
 
-> Muhammad has significantly contributed to the academic and research community as a Researcher for the prestigious "IEEE JSTAR Transactions" journal and as a key contributor to "The AIP Conference Proceedings." His authorship extends to chapters in books published by the renowned Taylor & Francis Group, underscoring his intellectual prowess and deep commitment to advancing the AI landscape.
-
-> His role as a certified Oracle-OCI AI expert and an active member of the NVIDIA Developer Program showcases his involvement in pushing the boundaries of AI and GenAI technologies. He has played a pivotal part in the development of autonomous agents, notably contributing to the "GPT-Researcher" project.
-
-> As a Researcher at Chongqing University, China, Muhammad specialized in Hyperspectral Image processing, including classification, denoising, and pansharpening, where he drove innovation through extensive research collaborations and data-driven experimentation.
-
-> In his capacity as a Generative AI Engineer, Muhammad has designed advanced generative models, optimized system performance, and integrated Retrieval Augmented Generation (RAG) systems to develop next-generation AI applications. His unique ability to collaborate across multidisciplinary teams drives groundbreaking results, advancing the AI/ML ecosystem and fostering future-ready solutions.
-
+● Programming Languages: Python, C++, C, Rust, Java, Julia, R
+● NVIDIA Technologies: TensorRT, TensorRT-LLM, NeMo, Riva, RAPIDS, CUDA, DeepStream, Triton Inference Server, DALI, NIM
+● ML&DL: PyTorch, ONNX, JAX, TensorFlow, Keras, Scikit-Learn, Hugging Face Transformers, LangChain, OpenAI API, Agentic AI, Fine-tuning LLMs, Model Optimization
+● Computer Vision: OpenCV, Open3D, YOLO, ResNet, Vision Transformers, Stable Diffusion GAN, UNet
+● Natural Language Processing: Transformer Models, BERT, GPT, T5, Sequence-to-Sequence Models, Speech Recognition, Text-to-Speech, Multilingual NLP
+● MLOps & Infrastructure: Docker, Kubernetes, MLflow, Weights & Biases, Apache Airflow, CI/CD Pipelines, Model Monitoring
+● Cloud Platforms: AWS (SageMaker, EC2, S3), Google Cloud Platform (Vertex AI, Compute Engine), Azure, Oracle Cloud Infrastructure
+● Distributed Computing: Apache Spark, Ray, Dask, Hadoop, Multi-GPU Training, Model Parallelism, Data Parallelism
+● Data Engineering: PostgreSQL, MongoDB, Apache Kafka, Snowflake, ETL Pipelines, Databricks
+● Development Tools: Git, GitHub, FastAPI, Django, REST APIs, GraphQL, Redis
+● Visualization & Analytics: Matplotlib, Plotly, Tableau, Streamlit, Gradio, Power BI
+---
 <a href="https://www.github.com/aaaastark" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/aaaastark?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <div align="center">
