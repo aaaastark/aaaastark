@@ -38,6 +38,7 @@ Senior AI/ML Engineer and Research Scientist with 3+ years of experience develop
 ● Development Tools: Git, GitHub, FastAPI, Django, REST APIs, GraphQL, Redis
 
 ● Visualization & Analytics: Matplotlib, Plotly, Tableau, Streamlit, Gradio, Power BI
+
 ---
 <a href="https://www.github.com/aaaastark" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/aaaastark?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
